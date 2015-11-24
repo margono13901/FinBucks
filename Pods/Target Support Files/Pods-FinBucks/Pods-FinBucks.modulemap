@@ -1,0 +1,6 @@
+framework module Pods_FinBucks {
+  umbrella header "Pods-FinBucks-umbrella.h"
+
+  export *
+  module * { export * }
+}

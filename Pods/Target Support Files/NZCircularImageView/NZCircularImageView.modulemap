@@ -1,0 +1,6 @@
+framework module NZCircularImageView {
+  umbrella header "NZCircularImageView-umbrella.h"
+
+  export *
+  module * { export * }
+}

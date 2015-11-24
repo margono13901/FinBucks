@@ -1,0 +1,6 @@
+framework module CRMotionView {
+  umbrella header "CRMotionView-umbrella.h"
+
+  export *
+  module * { export * }
+}

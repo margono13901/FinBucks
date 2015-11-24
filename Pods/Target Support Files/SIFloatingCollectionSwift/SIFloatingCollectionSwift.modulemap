@@ -1,0 +1,6 @@
+framework module SIFloatingCollectionSwift {
+  umbrella header "SIFloatingCollectionSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
